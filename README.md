@@ -12,7 +12,7 @@ To install the required libraries, run:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn plotly
-
+```
 
 **Data Cleaning & Preprocessing**
 **Missing Values:** Filled missing ratings with the median, and handled other categorical columns by filling with the mode.
@@ -41,3 +41,4 @@ This project provides a comprehensive analysis of Google Play Store apps, with a
 ```bash
 git clone https://github.com/your-username/repo-name.git
 cd repo-name
+```
